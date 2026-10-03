@@ -1,0 +1,16 @@
+{
+  "initial_product": 10000,
+  "quotes": [
+    {
+      "accepted": false,
+      "execution_price": "0.5",
+      "id": "q",
+      "impact": "0.5",
+      "output": 50,
+      "post_swap_product": 10000,
+      "reasons": [
+        "price_impact"
+      ]
+    }
+  ]
+}

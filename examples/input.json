@@ -1,0 +1,13 @@
+{
+  "reserve_in": 100,
+  "reserve_out": 100,
+  "fee_bps": 0,
+  "quotes": [
+    {
+      "id": "q",
+      "amount_in": 100,
+      "minimum_output": 40,
+      "maximum_impact": "0.4"
+    }
+  ]
+}
